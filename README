@@ -36,7 +36,7 @@ AndRoad depends of the following projects
 
 == Compilation
 
-There is no apk yet available. You need
+To compile AndRoad you need
 * android sdk from http://developer.android.com/sdk/index.html
 * java sdk from http://www.oracle.com/technetwork/java/javase/downloads/index.html
 * ant from http://ant.apache.org/
