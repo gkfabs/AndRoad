@@ -71,7 +71,7 @@ public class CompassImageView extends ImageView implements SensorEventListener, 
 			super.onDraw(canvas);
 
 			canvas.restore();
-			canvas.drawBitmap(this.mNeedleBitmap, 22 + this.getPaddingLeft(), 0 + this.getPaddingTop(), this.mPaint);
+			canvas.drawBitmap(this.mNeedleBitmap, halfWidth - this.getPaddingLeft(), 0 + this.getPaddingTop(), this.mPaint);
 		}
 	}
 
