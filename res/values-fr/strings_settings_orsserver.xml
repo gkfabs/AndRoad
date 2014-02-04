@@ -10,7 +10,7 @@
 -->
 <resources>
 	<string name="tv_settings_quickinfo_orsserver_focused">Changer le serveur...</string>
-	<string name="tv_settings_orsserver_quickinfo_caption">Selectionner le serveur...</string>
+	<string name="tv_settings_orsserver_quickinfo_caption">Sélectionner le serveur...</string>
 	
 	<string name="orsserver_selection_instructions">Sur cet écran vous pouvez sélectionner un serveur approprié pour votre position. Les serveurs hors-ligne ne retournent pas de résultats.\n\nVous pouvez changer de serveur n\'importe quand dans les paramètres de AndRoad.</string>
 	<string name="orsserver_pingall">Ping tous</string>

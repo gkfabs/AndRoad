@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="tv_settings_quickinfo_unitsystem_focused">Système d\'unités...</string>
-		<string name="tv_settings_unitsystem_quickinfo_caption">Selectionner un système d\'unités...</string>
+		<string name="tv_settings_unitsystem_quickinfo_caption">Sélectionner un système d\'unités...</string>
 		<string name="btn_settings_unitsystem_metric_caption">Unités métriques</string>
 		<string name="tv_settings_unitsystem_metric_details">Mètres\nKilomètres\nKilomètres par Heure\nCelcius</string>
-		<string name="btn_settings_unitsystem_imperial_caption">Unités impériales</string>
+		<string name="btn_settings_unitsystem_imperial_caption">Unités anglo-saxonnes</string>
 		<string name="tv_settings_unitsystem_imperial_details">Yards\nMiles\nMiles par Heure\nFahrenheit</string>
 </resources>

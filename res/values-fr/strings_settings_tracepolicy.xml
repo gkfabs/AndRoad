@@ -11,7 +11,7 @@
 <resources>
 	<string name="tv_settings_quickinfo_tracepolicy_focused">Paramètres de trace...</string>
 	<string name="chk_settings_tracepolicy_filter_caption">Filtre minimal</string>
-	<string name="tv_settings_tracepolicy_quickdescription">Choisir que faire avec les traces GPS et les enregistrements AndRoad.</string>
+	<string name="tv_settings_tracepolicy_quickdescription">Choisir quoi faire avec les traces GPS et les enregistrements AndRoad.</string>
 	<string name="dlg_input_osm_account_title">Données du compte OSM</string>
 	<string name="dlg_input_osm_account_username">Utilisateur :</string>
 	<string name="dlg_input_osm_account_password">Mot de passe :</string>

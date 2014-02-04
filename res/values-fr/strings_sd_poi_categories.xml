@@ -35,7 +35,7 @@
 	<string name="sd_poi_category_telephone">Téléphone</string>
 	<string name="sd_poi_category_veterinary">Vétérinaire</string>
 	
-	<string name="sd_poi_category_biergarten">Biergarten</string>
+	<string name="sd_poi_category_biergarten">Bar</string>
 	<string name="sd_poi_category_cafe">Café</string>
 	<string name="sd_poi_category_drinking_water">Point d\'eau</string>
 	<string name="sd_poi_category_fast_food">Fast food</string>
@@ -176,7 +176,7 @@
 
 	<string name="sd_poi_category_car_rental">Location de voiture</string>
 	<string name="sd_poi_category_car_repair">Garage</string>
-	<string name="sd_poi_category_car_sharing">Autopartage</string>
+	<string name="sd_poi_category_car_sharing">Covoiturage</string>
 	<string name="sd_poi_category_fuel">Station essence</string>
 	<string name="sd_poi_category_parking">Parking</string>
 	<string name="sd_poi_category_taxi">Taxi</string>
