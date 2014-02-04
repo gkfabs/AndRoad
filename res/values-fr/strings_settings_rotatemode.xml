@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="tv_settings_rotatemode_quickinfo_default">Selectionner le mode de rotation...</string>
+	<string name="tv_settings_rotatemode_quickinfo_default">Sélectionner le mode de rotation...</string>
 	<string name="tv_settings_rotatemode_quickinfo_northup">Nord en haut...</string>
-	<string name="tv_settings_rotatemode_quickinfo_northup_saved">Nord en haut... sauvegardé!</string>
+	<string name="tv_settings_rotatemode_quickinfo_northup_saved">Nord en haut... sauvegardé !</string>
 	<string name="tv_settings_rotatemode_quickinfo_drivingdirectionsup">Dans le sens de la marche...</string>
 	<string name="tv_settings_rotatemode_quickinfo_drivingdirectionsup_saved">Dans le sens de la marche... sauvegardé !</string>
 </resources>

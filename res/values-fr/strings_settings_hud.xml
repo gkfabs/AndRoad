@@ -10,9 +10,9 @@
 -->
 <resources>
 	<string name="tv_settings_quickinfo_hud_focused">Paramètres de HUD...</string>
-	<string name="tv_settings_hud_quickinfo_default">Selectionner un HUD...</string>
+	<string name="tv_settings_hud_quickinfo_default">Sélectionner un HUD...</string>
 	
-	<string name="tv_settings_hud_variation_caption">Selectionner une variation...</string>
+	<string name="tv_settings_hud_variation_caption">Sélectionner une variation...</string>
 	
 	<!-- The different HUD-Descriptions -->
 	<!-- The basic HUD -->

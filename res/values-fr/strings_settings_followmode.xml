@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="tv_settings_centermode_quickinfo_default">Selectionner le mode de centrage...</string>
+	<string name="tv_settings_centermode_quickinfo_default">Sélectionner le mode de centrage...</string>
 	<string name="tv_settings_centermode_quickinfo_centeruser">Centrer sur l\'utilisateur...</string>
 	<string name="tv_settings_centermode_quickinfo_centeruser_saved">Centrer sur l\'utilisateur... sauvegardé !</string>
 	<string name="tv_settings_centermode_quickinfo_upto_nextturn">Jusqu\'au prochain changement...</string>

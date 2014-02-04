@@ -4,14 +4,14 @@
 		<string name="tv_settings_quality_quickinfo_default">Qualité d\'affichage</string>
 		
 		<string name="btn_settings_quality_low">Basse</string>
-			<string name="tv_settings_quality_quickinfo_low_description">Pas de transparence, Pas d\'AntiAliasing, Pas de lissage des chemins.</string>
+			<string name="tv_settings_quality_quickinfo_low_description">Sans transparence, sans Anti-aliasing, sans lissage des chemins.</string>
 		
 		<string name="btn_settings_quality_standard">Moyenne</string>
-			<string name="tv_settings_quality_quickinfo_standard_description">Transparence, AntiAliasing, Pas de lissage des chemins.</string>
+			<string name="tv_settings_quality_quickinfo_standard_description">Transparence, anti-aliasing, sans de lissage des chemins.</string>
 			
 		<string name="btn_settings_quality_high">Elevée</string>
-			<string name="tv_settings_quality_quickinfo_high_description">Transparence, AntiAliasing, Lissage des chemins.</string>
+			<string name="tv_settings_quality_quickinfo_high_description">Transparence, anti-aliasing, lissage des chemins.</string>
 			
 		<string name="btn_settings_quality_best">Meilleure</string>
-			<string name="tv_settings_quality_quickinfo_best_description">Transparence, AntiAliasing du texte et des chemins, Lissage des chemins.</string>
+			<string name="tv_settings_quality_quickinfo_best_description">Transparence, anti-aliasing du texte et des chemins, lissage des chemins.</string>
 </resources>

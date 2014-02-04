@@ -24,17 +24,17 @@
 	<string name="app_name_sd_resolver">Résolveur d\'adresse...</string>
 	<string name="app_name_sd_poi_categories">AndRoad! - Sélectionner une catégorie de POI...</string>
 	<string name="app_name_sd_poi_entry">AndRoad! - Entrer la description du POI...</string>
-	<string name="app_name_sd_poi_searchlist">AndRoad! - Selectionner un POI ...</string>
-	<string name="app_name_sd_country">AndRoad! - Selectionner un pays...</string>
-	<string name="app_name_sd_country_subdivision">AndRoad! - Selectionner une subdivision...</string>
+	<string name="app_name_sd_poi_searchlist">AndRoad! - Sélectionner un POI ...</string>
+	<string name="app_name_sd_country">AndRoad! - Sélectionner un pays...</string>
+	<string name="app_name_sd_country_subdivision">AndRoad! - Sélectionner une subdivision...</string>
 	<string name="app_name_sd_ziporcity">AndRoad! - Raffiner par...</string>
 	<string name="app_name_sd_zip">AndRoad! - Entrer le code postal...</string>
 	<string name="app_name_sd_postcode_uk_bs7666">AndRoad! - Entrer le code postal...</string>
 	<string name="app_name_sd_city">AndRoad! - Entrer le nom de la ville...</string>
 	<string name="app_name_sd_street">AndRoad! - Entrer le nom de la rue...</string>
 	<string name="app_name_sd_streetnumber">AndRoad! - Entrer le numéro de la rue...</string>
-	<string name="app_name_sd_favorites">AndRoad! - Selectionner un Favori...</string>
-	<string name="app_name_sd_poi">AndRoad! - Selectionner un POI...</string>
+	<string name="app_name_sd_favorites">AndRoad! - Sélectionner un Favori...</string>
+	<string name="app_name_sd_poi">AndRoad! - Sélectionner un POI...</string>
 	<string name="app_name_sd_contacts">AndRoad! - Choisir un contact...</string>
 	<string name="app_name_sd_savedroutechooser">Charger une route enregistrée...</string>
 	<string name="app_name_sd_savedtracechooser">Charger une trace enregistrée...</string>
@@ -53,7 +53,7 @@
 	<string name="app_name_settings_tracepolicy">AndRoad! - Règles de tracé...</string>
 	<string name="app_name_settings_screenorientation">AndRoad! - Orientation de l\'écran...</string>
 	<string name="app_name_settings_cache">AndRoad! - Paramètres du cache...</string>
-	<string name="app_name_settings_voice">AndRoad! - Paramètres de voix...</string>
+	<string name="app_name_settings_voice">AndRoad! - Paramètres vocaux...</string>
 	<string name="app_name_settings_centermode">AndRoad! - Sélectionner le mode de centrage...</string>
 	<string name="app_name_settings_rotatemode">AndRoad! - Sélectionner le mode de rotation...</string>
 	<string name="app_name_settings_quality">AndRoad! - Qualité d\'affichage...</string>
@@ -62,6 +62,6 @@
 	<string name="app_name_settings_statistics">AndRoad! - Statistiques...</string>
 	<string name="app_name_settings_routingflags">AndRoad! - Param. de routage...</string>
 	<string name="app_name_settings_routingflags_dialog">Paramètres de routage...</string>
-	<string name="app_name_camera_favorite">Camera Favorite</string>
+	<string name="app_name_camera_favorite">Caméra Favorite</string>
 	<string name="app_name_route_instructions">Route Instructions</string>
 </resources>

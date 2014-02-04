@@ -13,17 +13,17 @@
 	<string name="pdg_fetchroute_loading_routebyhandle">Chargement de la route depuis RouteHandleID = %1$d</string>
 	
 	<string name="ddmap_info_waypoint_passed">Point de passage dépassé.</string>
-	<string name="ddmap_info_gps_resolving">Recherche Gps...</string>
+	<string name="ddmap_info_gps_resolving">Recherche GPS...</string>
 	<string name="ddmap_info_no_route">Aucune route trouvée...</string>
 	<string name="ddmap_info_route_fetch_no_dataconnection_title">Aucune connexion...</string>
 	<string name="ddmap_info_route_fetch_no_dataconnection_message">La connexion semble être perdue...\n <b>Réessayer ?</b></string>
 	<string name="ddmap_info_route_fetch_tries_exceeded_ask_remove_streetnumber_title">Route introuvable</string>
 	<string name="ddmap_info_route_fetch_tries_exceeded_ask_remove_streetnumber_message">Après <b>3</b> essais...\n<b>Réessayer</b> sans le <b>numéro de rue</b> ?</string>
 	<string name="ddmap_info_route_fetch_tries_exceeded_title">Route introuvable</string>
-	<string name="ddmap_info_route_fetch_tries_exceeded_message">Après <b>3</b> essais...\n<b>Reéssayer</b> ?</string>
+	<string name="ddmap_info_route_fetch_tries_exceeded_message">Après <b>3</b> essais...\n<b>Réessayer</b> ?</string>
 	<string name="ddmap_info_route_fetch_useold">Utiliser la dernière fonctionnelle</string>
 	<string name="ddmap_info_gps_fetch_tries_exceeded_title">Le <b>GPS</b> semble indisponible...</string>
-	<string name="ddmap_info_gps_fetch_tries_exceeded_message"><b>Réessayer</b> de trouver votre Position GPS ?\n\n<i>(L\'icône GPS dans la barre de statut ne doit <b>plus</b> clignoter !)</i></string>
+	<string name="ddmap_info_gps_fetch_tries_exceeded_message"><b>Réessayer</b> de trouver votre position GPS ?\n\n<i>(L\'icône GPS dans la barre de statut ne doit <b>plus</b> clignoter !)</i></string>
 	
 	
 	<string name="toast_autozoom_enabled">Zoom automatique <b>activé</b>. Changer avec \'<b>a</b>\'.</string>

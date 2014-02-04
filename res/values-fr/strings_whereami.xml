@@ -20,7 +20,7 @@
 	<string name="et_whereami_searchbox_hint">i.e. : \'Oakland, Blossom St\'</string>
 	
 		
-	<string name="toast_autofollow_once">Centré sur l\'utilisateur...</string>
+	<string name="toast_autofollow_once">Centrer sur l\'utilisateur...</string>
 	<string name="toast_autofollow_enabled">Suivre automatiquement : Activé</string>
 	<string name="toast_autofollow_disabled">Suire automatiquement : Désactivé</string>
 	
@@ -50,7 +50,7 @@
 	<string name="wherami_dialog_country">Pays:</string>
 	
 	<!-- The Maptile-Preload-Dialog -->
-	<string name="dlg_preloader_rect_maxzoom_title">Selectionner le niveau max de zoom.</string>
+	<string name="dlg_preloader_rect_maxzoom_title">Sélectionner le niveau max de zoom.</string>
 	<string name="dlg_preloader_rect_reducezoom">Reduire zoom</string>
 	<string name="dlg_preloader_rect_title">Préchargeur de rectangle</string>
 	<string name="dlg_preloader_rect_message">Précharger %1$d tuiles pour le rectangle visible ?\n\nTaille estimée : %2$s</string>

@@ -5,7 +5,7 @@
 	<string name="settings_favortites_contextmenu_use">Utiliser ce favori !</string>
 	<string name="settings_favortites_contextmenu_delete">Supprimer ce favori !</string>
 
-	<string name="tv_sd_favorites_quickinfo_caption">Selectionner un favori</string>
+	<string name="tv_sd_favorites_quickinfo_caption">Sélectionner un favori</string>
 	<string name="menu_sd_favorites_wipe">Nettoyer les favoris...</string>
 
 	<string name="dlg_input_favorite_name_name">Nom :</string>

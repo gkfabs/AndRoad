@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="tv_settings_routeviewing_maxlevel_caption">Selectionner un niveau de zoom maximal lors de la navigation...</string>
+	<string name="tv_settings_routeviewing_maxlevel_caption">Sélectionner un niveau de zoom maximal lors de la navigation...</string>
 	<string name="chk_settings_routeviewing_maxlevel_enabled_caption">Activer le zoom auto lors de la navigation...</string>
 	<string name="chk_settings_routeviewing_snaptoroute_enabled_caption">Projeter la position sur la route</string>
 	

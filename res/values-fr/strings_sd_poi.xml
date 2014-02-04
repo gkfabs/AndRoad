@@ -5,10 +5,10 @@
     <string name="sd_poi_loading_title">Chargement de la liste des POI...</string>
     <string name="sd_poi_loading_progress">Avancement : %1$d %%  (%2$d de %3$d POI)</string>
 
-    <string name="sd_poi_item_loading_title">Telechargement du fichier POI</string>
-    <string name="sd_poi_item_loading_progress">Progress: %1$d %%  (%2$d de %3$d POI)</string>
+    <string name="sd_poi_item_loading_title">Téléchargement du fichier POI</string>
+    <string name="sd_poi_item_loading_progress">Progrès: %1$d %%  (%2$d de %3$d POI)</string>
 	
-	<string name="choose_search_radius">Selectionner le rayon de recherche...</string>
+	<string name="choose_search_radius">Sélectionner le rayon de recherche...</string>
 	<string name="poi_search_radius_global">Global</string>
 
 	<string name="menu_sd_poi_wipe">Nettoyer l\'historique des POI...</string>
@@ -16,11 +16,11 @@
 	<string name="toast_sd_poi_empty">Veuillez entrer un POI...</string>
 	
 	<string name="tv_sd_poi_entry_quickinfo_caption">Entrer POI...</string>	
-	<string name="tv_sd_poi_searchlist_quickinfo_caption">Selectionner un POI...</string>
+	<string name="tv_sd_poi_searchlist_quickinfo_caption">Sélectionner un POI...</string>
 	<string name="toast_sd_poi_getting_gps_and_poi_search">Obtention de la localisation GPS et recherche de POI...</string>
 	<string name="toast_sd_poi_could_not_find">Désolé, impossible de trouver \'%1$s\' dans %2$s.</string>
 	
-	<string name="tv_sd_poi_categories_quickinfo_caption">Choisir une categorie...</string>
+	<string name="tv_sd_poi_categories_quickinfo_caption">Choisir une catégorie...</string>
 	
 	<string name="poi_search_categorized">Recherche par catégorie</string>
 	<string name="poi_search_freeform">Recherche libre</string>

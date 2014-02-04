@@ -14,12 +14,12 @@
 	
 	<!-- Menu-Strings -->
 	<string name="maps_menu_quit">Quitter</string>
-	<string name="maps_menu_refetch_route">Rerécupération de la route</string>
+	<string name="maps_menu_refetch_route">Récupération de la route</string>
 	<string name="maps_menu_focus_coordinates">Aller aux coordonnées...</string>
-	<string name="maps_menu_auto_refetch">Rerécupération automatique</string>
+	<string name="maps_menu_auto_refetch">Récupération automatique</string>
 	<string name="maps_menu_settings">Paramètres</string>
 	<string name="maps_menu_weather">Météo</string>
-    <string name="maps_menu_layer">Les Couches</string>
+    <string name="maps_menu_layer">Les couches</string>
     <string name="maps_menu_submenu_layer_poi">POI</string>
     <string name="maps_menu_submenu_layer_foxytag">Foxy Tag</string>
 	<string name="maps_menu_submenu_layer_favorite">Les Favoris</string>
@@ -39,7 +39,7 @@
 	<string name="maps_menu_traffic">Changer de trafic</string>
 	<string name="maps_menu_preload">Précharger</string>
 	<string name="maps_menu_shareroute">Envoyer la route par mail</string>
-	<string name="maps_menu_routeinstructions">Instructions de la Route</string>
+	<string name="maps_menu_routeinstructions">Instructions de la route</string>
 	<string name="maps_menu_getcentetcoordinates">Voir les coordonnées</string>
 	<string name="maps_menu_getcentetcoordinates_message"><b>Centre de la carte :</b>\n\n<b>Latitude:\t</b>%.6f\n<b>Longitude:\t</b>%.6f\n</string>
 	<string name="maps_menu_altitude_profile">Graphe d\'altitude</string>
@@ -50,7 +50,7 @@
 	<string name="maps_menu_trace_show">Montrer la trace actuelle</string>
 	<string name="maps_menu_trace_hide">Cacher la trace actuelle</string>
 	<string name="maps_menu_trace_submit">Envoyer la trace actuelle</string>
-	<string name="maps_menu_vehicleregistrationplate_lookup">Recherche plaque d\'immatriculation</string>
+	<string name="maps_menu_vehicleregistrationplate_lookup">Recherche de la plaque d\'immatriculation</string>
 	
 	<!-- Context Menu-String -->
 	<string name="maps_contextmenu_add_as_waypoint">Ajouter comme point de passage</string>

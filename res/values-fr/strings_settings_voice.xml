@@ -12,14 +12,14 @@
 			<string name="tv_settings_directionvoice_column_saywhat">... que dire ?</string>
 			
 		<string name="tv_settings_voice_ttsdescription"><b>TTS</b> signifie \'<i>Text To Speech</i>\'</string>
-		<string name="settings_voice_tts_working">Texte tou spitch fonctionne correctement.</string>
+		<string name="settings_voice_tts_working">Texte To Speech fonctionne correctement.</string>
 		<string name="settings_voice_tts_sample">A 500 mètres, tourner à droite sur la rue Jean Jaurès.</string>
 		
 		<string name="btn_settings_voice_tts_caption">Text-2-Speech...</string>
 		
 	<string name="tts_not_installed_title">\'Text to Speech\'...</string>
 	<string name="tts_not_installed_message">La librairie <b>GRATUITE</b> \'Text to Speech\' n\'a pas été trouvée sur cet appareil.\n\nVoulez-vous l\'installer depuis l\'<b>Android Market</b> ?</string>
-	<string name="tts_outdated_message">La librairie <b>GRATUITE</b> \'Text to Speech\' est périmée.\n\nIl est <b>fortement</b> recommendé de la mettre à jour maintenant !</string>
+	<string name="tts_outdated_message">La librairie <b>GRATUITE</b> \'Text to Speech\' est périmée.\n\nIl est <b>fortement</b> recommandé de la mettre à jour maintenant !</string>
 			
 	<array name="spin_settings_directionvoice_saywhat_items">
 		<item>Rien</item>
